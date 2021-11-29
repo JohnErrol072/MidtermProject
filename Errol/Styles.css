@@ -1,12 +1,43 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(245, 245, 245);
 }
 .photo{
    text-align: center;
     width:100%;  
 }
-.karo{
-   width: 1000px;
-   height: 1000px;
-  
+ul{
+   padding:14px 16px;
+
 }
+li a{
+    padding:14px 16px;
+    font-size:17px;
+margin-left:30px;
+font-family: verdana;
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+    
+    }
+    .nav-link:hover{
+        color: rgb(12, 248, 12);
+    }
+    .nav-item{
+        
+    }
+    .thumbnail {
+        position: relative;
+    }
+    
+    .caption {
+        position: absolute;
+        top: 10%;
+        left: 0;
+        width: 100%;
+    }
+.philo{
+    
+    
+}
+
+    
