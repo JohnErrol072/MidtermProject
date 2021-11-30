@@ -13,7 +13,9 @@ li a{
     padding:14px 16px;
     font-size:17px;
 margin-left:30px;
-font-family: verdana;
+}
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .nav-link{
     color: rgb(255, 255, 255);
@@ -21,9 +23,6 @@ font-family: verdana;
     }
     .nav-link:hover{
         color: rgb(12, 248, 12);
-    }
-    .nav-item{
-        
     }
     .thumbnail {
         position: relative;
@@ -35,9 +34,4 @@ font-family: verdana;
         left: 0;
         width: 100%;
     }
-.philo{
-    
-    
-}
-
-    
+ 
